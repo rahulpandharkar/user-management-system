@@ -37,14 +37,20 @@ Note: If starting SQL Service of Xampp gives any error with respect to port numb
 ## Screenshots
 
 ![Homepage](screenshots/homepage-1.png)
+Landing Page of the Web Application
 
 ![Homepage](screenshots/homepage-2.png)
+Sign Up Page 
 
 ![Homepage](screenshots/homepage-3.png)
+Login Page (putting the both the combinations as "admin" would unlock the Admin Dashboard)
 
 ![Admin Dashboard](screenshots/admin-dashboard-1.png)
+Adding a user to the Web Application by Admin Access
 
 ![Admin Dashboard](screenshots/admin-dashboard-2.png)
+Viewing Users who are signed up to the Web Application
 
 ![Admin Dashboard](screenshots/admin-dashboard-3.png)
+Deleting a user from the Web Application
 
