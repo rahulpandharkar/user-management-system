@@ -22,6 +22,7 @@ The User Management System is a web application designed for administrators to m
 ## Prerequisites
 1. MySQL: <https://dev.mysql.com/downloads/>
 2. Xampp: <https://www.apachefriends.org/download.html>
+
 Note: If starting SQL Service of Xampp gives any error with respect to port number of MySQL in use, close the service manually from Task Manager or Service Manager and reclick on "Start".
 
 ## Installation
