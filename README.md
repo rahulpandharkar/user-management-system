@@ -29,6 +29,22 @@ Note: If starting SQL Service of Xampp gives any error with respect to port numb
 1. Clone the repository:
    ```bash
    git clone https://github.com/rahulpandharkar/user-management-system.git
-2. Paste the "User-Management-System" to the "htdocs" folder of the Xampp Directory
-3. Open Xampp, enable Apache and MySQL
-4. Now visit <https://localhost/User-Management-System/homepage.html> to get started with.
+2. Rename the Repository Folder to "User-Management-System" (case-sensitive)
+3. Paste the "User-Management-System" Folder to the "htdocs" folder of the Xampp Directory
+4. Open Xampp, start Apache and MySQL processes
+5. Now visit <https://localhost/User-Management-System/homepage.html> to get started with.
+
+## Screenshots
+
+![Homepage](screenshots/homepage-1.png)
+
+![Homepage](screenshots/homepage-2.png)
+
+![Homepage](screenshots/homepage-3.png)
+
+![Admin Dashboard](screenshots/admin-dashboard-1.png)
+
+![Admin Dashboard](screenshots/admin-dashboard-2.png)
+
+![Admin Dashboard](screenshots/admin-dashboard-3.png)
+
