@@ -19,7 +19,15 @@ The User Management System is a web application designed for administrators to m
 - **Bootstrap**: Frontend framework for responsive design
 - **jQuery**: JavaScript library for simplifying DOM manipulation and AJAX requests
 
+## Prerequisites
+1. MySQL: <https://dev.mysql.com/downloads/>
+2. Xampp: <https://www.apachefriends.org/download.html>
+Note: If starting SQL Service of Xampp gives any error with respect to port number of MySQL in use, close the service manually from Task Manager or Service Manager and reclick on "Start".
+
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/user-management-system.git
+   git clone https://github.com/rahulpandharkar/user-management-system.git
+2. Paste the "User-Management-System" to the "htdocs" folder of the Xampp Directory
+3. Open Xampp, enable Apache and MySQL
+4. Now visit <https://localhost/User-Management-System/homepage.html> to get started with.
